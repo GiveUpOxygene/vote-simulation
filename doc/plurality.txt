@@ -1,0 +1,6 @@
+Plurality voting refers to electoral systems in which a candidate, 
+or candidates, who poll more than any other counterpart 
+(that is, receive a plurality), are elected.
+
+The Plurality score of a candidate is the total number of voters who rank this 
+candidate at the top of their rankings. 

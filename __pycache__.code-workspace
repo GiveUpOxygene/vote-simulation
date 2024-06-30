@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"path": "__pycache__"
+		},
+		{
+			"path": "classes"
+		},
+		{
+			"path": "doc"
+		},
+		{
+			"path": "files"
+		},
+		{
+			"path": "merge_perso"
+		},
+		{
+			"path": "pictures"
+		},
+		{
+			"path": "styles"
+		},
+		{
+			"path": "test"
+		},
+		{
+			"path": "testWidgets"
+		}
+	]
+}

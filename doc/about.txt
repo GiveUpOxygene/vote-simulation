@@ -1,0 +1,10 @@
+L’objectif du projet est de simuler et visualiser certains processus electoraux. 
+
+Plusieurs regles de votes doivent etre comparees (score, Condorcet,
+par elimination).
+
+Les electeurs et les candidats sont plonges dans le plan (on peut voir
+cela comme leurs positions selon deux axes). 
+
+La proximite entre un votant et un candidat represente l’intensite de la
+preference du votant pour ce candidat.

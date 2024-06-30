@@ -1,0 +1,14 @@
+Copeland's method is one of several Condorcet methods. 
+Copeland's method is a ranked voting method based on a scoring system 
+of pairwise "wins", "losses", and "ties".
+
+Each voter is asked to rank candidates in order of preference. 
+A candidate A is said to have majority preference over another candidate B 
+if more voters prefer A to B than prefer B to A; if the numbers are equal 
+then there is a preference tie. The Copeland score for a candidate is the
+number of other candidates over whom they have a majority preference plus 
+half the number of candidates with whom they have a preference tie. 
+
+The winner of the election under Copeland's method is the candidate with 
+the highest Copeland score.
+

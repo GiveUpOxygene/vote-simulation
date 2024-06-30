@@ -1,0 +1,11 @@
+Coombs' method or the Coombs rule is a ranked voting system which uses a ballot 
+counting method for ranked voting created by Clyde Coombs. 
+
+The Coombs' method is the application of Coombs rule to single-winner elections, 
+similarly to instant-runoff voting, it uses candidate elimination and 
+redistribution of votes cast for that candidate until one candidate has a 
+majority of votes.
+
+Each voter rank-orders all of the candidates on their ballot. The candidate
+ranked last (again among non-eliminated candidates) by the largest number of 
+voters is eliminated. 

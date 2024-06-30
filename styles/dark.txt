@@ -1,0 +1,26 @@
+
+QMenuBar{background-color: #3c3c3c;font: 14px;spacing: 8px;}
+QMenuBar::item{background-color: #3c3c3c;color: #c9c9c90;padding: 6px;border-radius: 4px;}
+QMenuBar::item::selected{background-color: #454646;;color: #cacaca;padding: 6px;}
+QMenuBar::item::pressed{background-color: #454646;;color: #cacaca;padding: 6px;}
+
+QMenu{background-color: #252526;color: #cacaca;padding 6 px;font: 14px;border: 1px solid;border-color: #dadfe5;top: 300px;}
+QMenu::item{margin:10px;width:300px;height:18px;border-radius: 10px}
+QMenu::item::selected{background-color: #04395e;color: #ffffff;border-radius: 4px;}
+QMenu::separator{height: 0.5px;background: #3c3c3c;}
+
+QToolBar{background-color: #ffffff;color: #000000;padding 8 px;;border: 0.5px solid;border-color: #dadfe5;spacing: 8px;height:100px;padding:2px}
+QToolBar::handle{image: url("./pictures/icons/classic/iconHandle.png");width:17,7px;height:30,9px;margin:12px}
+
+QStatusBar{background: #ffffff;color: #000000;font: 14px;border: 1px solid;border-color: #dadfe5;padding 25 px;}
+QStatusBar::item{margin:10px}
+
+QLineEdit{background: #ffffff;color: #000000}
+
+
+QPushButton{background-color: #ffffff;}
+
+
+
+
+

@@ -1,0 +1,9 @@
+Approval voting is an electoral system in which voters can 
+select several candidates instead of selecting only one candidate.
+
+Approval voting ballots show a list of the options of candidates running. 
+Approval voting lets each voter indicate support for a number of candidates
+fixed by the approval's threshold.
+
+Final tallies show how many votes each candidate received, and the winner 
+is the candidate with the most support.

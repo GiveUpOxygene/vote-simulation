@@ -1,0 +1,13 @@
+The Borda count electoral system can be combined with an instant-runoff 
+procedure to create hybrid election methods that are called Nanson method 
+and Baldwin method (also called Total Vote Runoff or TVR). 
+Both methods are designed to satisfy the Condorcet criterion, and allow for 
+incomplete ballots and equal rankings.
+
+The Nanson method is based on the original work of the mathematician Edward J. 
+Nanson in 1882.
+
+Nanson's method eliminates those choices from a Borda count tally that are at 
+or below the average Borda count score, then the ballots are retallied as if 
+the remaining candidates were exclusively on the ballot. This process is 
+repeated if necessary until a single winner remains.

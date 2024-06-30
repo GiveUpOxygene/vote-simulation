@@ -1,0 +1,13 @@
+Alternative Voting (AV) is a type of ranked preferential voting method. 
+
+Voters in AV elections rank the candidates in order of preference. 
+
+Ballots are initially counted to establish the number of votes for 
+each candidate. If a candidate has more than half of the first-choice 
+votes, that candidate wins. If not, then the candidate with the fewest 
+votes is eliminated, and the voters who selected that candidate as 
+their first choice have their votes added to the total of the candidate who 
+was their next choice. 
+
+That process continues until one candidate has more than half of the votes, 
+and that person is declared the winner. 

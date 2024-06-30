@@ -1,0 +1,14 @@
+The two-round system (TRS), also known as runoff voting, second ballot, 
+or ballotage, is a voting method used to elect a single candidate, 
+where voters cast a single vote for their preferred candidate. 
+
+It generally ensures a majoritarian result, not a simple-plurality result 
+as under first past the post. Under the two-round election system, the 
+election process usually proceeds to a second round only if in the first
+round no candidate received a simple majority (more than 50%) of votes cast, 
+or some other lower prescribed percentage.
+ 
+Under the two-round system, usually only the two candidates who received 
+the most votes in the first round, or only those candidates who received 
+above a prescribed proportion of the votes, are candidates in the second round. 
+Other candidates are excluded from the second round.

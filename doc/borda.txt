@@ -1,0 +1,12 @@
+The Borda count is a ranked voting system : the voter ranks the 
+list of candidates in order of preference.
+
+The Borda count is a family of positional voting rules which gives 
+each candidate, for each ballot, a number of points corresponding 
+to the number of candidates ranked lower. In the original variant, 
+the lowest-ranked candidate gets 0 points, the next-lowest gets 
+1 point, etc., and the highest-ranked candidate gets n − 1 points, 
+where n is the number of candidates. 
+
+Once all votes have been counted, the option or candidate with the 
+most points is the winner.

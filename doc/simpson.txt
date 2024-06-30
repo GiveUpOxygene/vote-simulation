@@ -1,0 +1,7 @@
+In voting systems, Simpson's method is one of several Condorcet methods 
+used for tabulating votes and determining a winner when using ranked 
+voting in a single-winner election. 
+
+Simpson's method selects the candidate for whom the greatest pairwise 
+score for another candidate against him or her is the least such 
+score among all candidates.

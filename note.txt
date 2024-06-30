@@ -1,0 +1,14 @@
+*Soutenances Mardi 18/04
+
+15/20 mins
+
+- Présentation du produit, perspectives(pas "trop" technique), démo (vidéo ?)
+- Questions/Réponses
+
+*Rapport à rendre le Vendredi 21/04
+
+4 Pages Max
+
+- Présentation globale du code (architecture, structure, documentation...) (Doc assez propre (commentée))
+- Politique de test utilisée
+ -Evaluation perfommance de notre code (Optimisation, éventuellement aspect empreinte carbone)
